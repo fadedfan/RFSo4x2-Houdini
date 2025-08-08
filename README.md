@@ -1,5 +1,5 @@
 # RFSoc4x2-Houdini
-A custom linux distribution designed for RFSoc4x2 with user space GPIO controls and SPI communication to the on-board LMK04828 and LMX2594 chips.
+A custom linux distribution (using Petalinux) designed for RFSoc4x2 with user space GPIO controls and SPI communication to the on-board LMK04828 and LMX2594 chips.
 
 The Hardware folder contains the board files for RFSoc4x2 from RealDigital, a TCL file for creating the Vivado Hardware Platform, and a example XSA file for setting up the petalinux project.
 
