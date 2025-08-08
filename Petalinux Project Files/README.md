@@ -10,7 +10,7 @@ The following instructions are adapted from the official repo from the RealDigit
 
 5. To access the OLED from user space, the "spidev" driver needs to be added to the kernel configuration. To configure the kernel, execute the command "petalinux-config -c kernel". This can take several minutes of execution time before menu pops up in a new window. Once the menu is up, follow these steps:
 
-  a. Select "Device Drivers --->".
+  * Select "Device Drivers --->".
   b. Scroll down and select "SPI support --->".
   c. Scroll down to "User mode SPI device driver support" and tap twice to get an asterisk in the selection column.
   d. Use Exit three times to get back to the main menu and then out of the configuration program.
