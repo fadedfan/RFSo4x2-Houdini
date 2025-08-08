@@ -8,6 +8,7 @@ The Petalinux Project Files folder contains:
 2. A custom library addition command file that need to be placed in (replace): <project-root-dir>/project-spec/meta-user/conf
 
 Petalinux Project Directories: https://drive.google.com/file/d/14JaCjJ4gdto-c6BeOtUyNlwLFsppkf6j/view?usp=sharing
+
 Example Boot Images: https://drive.google.com/file/d/1-RzhDtFdqg2pkDm769la_5lxMcgW9sOF/view?usp=sharing
 
 The Software folder contains the C files used for the Vitis projects and example ELF files that are executable on RFSoc4x2 board. 
